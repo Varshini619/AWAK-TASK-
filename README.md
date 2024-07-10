@@ -1,14 +1,14 @@
  Awak Tech Login Page
 
 Table of Contents: 
-
 1. Introduction 
 2. Features 
 3. Technologies Usagd 
 4. Description of Files
 5. Usage
 6. Features.
-                                                                                                                                                                                       Introduction:
+                                                                                                                                                                                       1. 1. 1. 
+ 1. Introduction:
  - This project is a login page designed for Awak Technologies. It includes form validation for the username/email and password fields
   and uses JavaScript to handle form submission. The page is styled with CSS to be responsive and user-friendly.
 
