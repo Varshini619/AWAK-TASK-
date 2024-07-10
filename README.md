@@ -10,7 +10,7 @@ Table of Contents:
 6. Features.
 
 1. Introduction:
-  This project is a login page designed for Awak Technologies. It includes form validation for the username/email and password fields
+ - This project is a login page designed for Awak Technologies. It includes form validation for the username/email and password fields
   and uses JavaScript to handle form submission. The page is styled with CSS to be responsive and user-friendly.
 
 2. Features:
@@ -40,9 +40,9 @@ Table of Contents:
 - step-5 : If the input is valid, a simulated login request will be made, and an alert will show the result. 
 
 6. Features :
- . API Interaction
- . Form Validation
- . Show Password toggle
+ - API Interaction
+ - Form Validation
+ - Show Password toggle
 
 
 
