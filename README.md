@@ -7,8 +7,7 @@ Table of Contents:
 3. Technologies Usagd 
 4. Description of Files
 5. Usage
-6. Features
-
+6. Features.
 
 1. Introduction:
   This project is a login page designed for Awak Technologies. It includes form validation for the username/email and password fields
