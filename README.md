@@ -8,7 +8,7 @@ Table of Contents:
 4. Description of Files
 5. Usage
 6. Features.
-1.  Introduction:
+Introduction:
  - This project is a login page designed for Awak Technologies. It includes form validation for the username/email and password fields
   and uses JavaScript to handle form submission. The page is styled with CSS to be responsive and user-friendly.
 
